@@ -1,4 +1,4 @@
-#Its Popping and more!! balloons backdrops and decor! <!DOCTYPE html>
+#Its Popping and more!! balloons backdrops and decor! 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
